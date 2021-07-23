@@ -1,2 +1,2 @@
 # AED
-Adversarial Energy Disaggregation
+Adversarial Energy Disaggregation for Non-intrusive Load Monitoring
